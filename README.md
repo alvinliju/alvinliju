@@ -1,28 +1,48 @@
-# 👋 Hello, I am Alvin!
+# Welcome to My GitHub Profile! 👋
 
-I'm a **17-year-old self-taught web developer** passionate about creating efficient web designs. 🚀 Currently, I'm diving into **React.js**, HTML, CSS, and more.
+## About Me
 
-## 🌱 Currently Learning
+Hey there! I'm [Your Name], an 18-year-old Cybersecurity Researcher and an aspiring Penetration Tester and Bug Bounty Hunter. With a solid foundation in MERN stack development, I transitioned my passion for coding into the fascinating world of cybersecurity. My journey from being an ex-MERN developer to a cybersecurity enthusiast has been fueled by an insatiable curiosity and a relentless drive to secure the digital realm.
 
-Working on mastering technologies like:
-- React and Frontend dev
-- 👨‍💻 All of my projects are available at [github.com/alvinliju](github.com/alvinliju)
+- 🔐 **Cybersecurity Researcher**: Exploring the depths of cybersecurity, from malware analysis to vulnerability assessment.
+- 💻 **Ex-MERN Stack Developer**: Leveraging my full-stack development background to understand and mitigate security risks.
+- 🐛 **Bug Bounty Hunter**: Hunting for vulnerabilities and contributing to the security of various platforms.
 
-- 💬 Ask me about **react,html,css and js**
+## My Interests
 
-- 📫 How to reach me **alvinlijubusiness@gmail.com**
+- Penetration Testing
+- Ethical Hacking
+- Web Application Security
+- Network Security
+- Exploit Development
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## Projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alvinliju&show_icons=true&locale=en" alt="alvinliju" /></p>
+Here are some of my notable projects:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alvinliju&" alt="alvinliju" /></p>
+### [8-Bit CPU from Scratch](https://github.com/yourusername/8-bit-cpu)
+Building an 8-bit CPU using breadboards with a friend, showcasing my interest in low-level hardware and computer architecture.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://kaggle.com/alvinliju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="alvinliju" height="30" width="40" /></a>
-<a href="https://instagram.com/not_alvinn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="not_alvinn" height="30" width="40" /></a>
-</p>
+### [Log4j Vulnerability Analysis](https://github.com/yourusername/log4j-analysis)
+A comprehensive write-up and analysis of the infamous Log4j vulnerability, including monitoring techniques and mitigation strategies.
+
+## Skills
+
+- **Cybersecurity**: Penetration Testing, Vulnerability Assessment, Malware Analysis, Ethical Hacking
+- **Programming Languages**: JavaScript, Python, C
+- **Web Development**: MERN Stack (MongoDB, Express.js, React, Node.js)
+- **Tools & Technologies**: Kali Linux, Metasploit, Burp Suite, Wireshark, Nmap, Docker, Git
+
+## Let's Connect!
+
+- [LinkedIn]()
+- [Twitter]([https://twitter.com/yourtwitter](https://twitter.com/paperwe90))
+- [Blog]([https://yourblog.com](https://alvin-cybersec-blog.vercel.app/))
+
+Feel free to reach out if you want to collaborate on a project, discuss cybersecurity trends, or just chat about tech. Let's make the digital world a safer place together! 🚀
+
+---
+
+⭐️ [Follow me](https://github.com/yourusername) for more interesting projects and updates!
 
 
