@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hey there! I'm [Your Name], an 18-year-old Cybersecurity Researcher and an aspiring Penetration Tester and Bug Bounty Hunter. With a solid foundation in MERN stack development, I transitioned my passion for coding into the fascinating world of cybersecurity. My journey from being an ex-MERN developer to a cybersecurity enthusiast has been fueled by an insatiable curiosity and a relentless drive to secure the digital realm.
+Hey there! I'm Alvin, an 18-year-old Cybersecurity Researcher and an aspiring Penetration Tester and Bug Bounty Hunter. With a solid foundation in MERN stack development, I transitioned my passion for coding into the fascinating world of cybersecurity. My journey from being an ex-MERN developer to a cybersecurity enthusiast has been fueled by an insatiable curiosity and a relentless drive to secure the digital realm.
 
 - 🔐 **Cybersecurity Researcher**: Exploring the depths of cybersecurity, from malware analysis to vulnerability assessment.
 - 💻 **Ex-MERN Stack Developer**: Leveraging my full-stack development background to understand and mitigate security risks.
