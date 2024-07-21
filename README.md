@@ -36,8 +36,8 @@ A comprehensive write-up and analysis of the infamous Log4j vulnerability, inclu
 ## Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/alvin-liju-0aab55307?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-- [Twitter]([https://twitter.com/yourtwitter](https://twitter.com/paperwe90))
-- [Blog]([https://yourblog.com](https://alvin-cybersec-blog.vercel.app/))
+- [Twitter](https://twitter.com/paperwe90)
+- [Blog](https://alvin-cybersec-blog.vercel.app/)
 
 Feel free to reach out if you want to collaborate on a project, discuss cybersecurity trends, or just chat about tech. Let's make the digital world a safer place together! 🚀
 
