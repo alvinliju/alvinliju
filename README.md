@@ -1,48 +1,28 @@
-# Welcome to My GitHub Profile! 👋
+# Hey, I'm Alvin 👨‍💻
 
-## About Me
+**Web Developer | Part-Time Bug Hunter | Full-Time Coffee Drinker**
 
-Hey there! I'm Alvin, an 18-year-old Cybersecurity Researcher and an aspiring Penetration Tester and Bug Bounty Hunter. With a solid foundation in MERN stack development, I transitioned my passion for coding into the fascinating world of cybersecurity. My journey from being an ex-MERN developer to a cybersecurity enthusiast has been fueled by an insatiable curiosity and a relentless drive to secure the digital realm.
+I build stuff on the web and occasionally break things (for fun and profit). Atlest didnt write my readme with AI lol...
 
-- 🔐 **Cybersecurity Researcher**: Exploring the depths of cybersecurity, from malware analysis to vulnerability assessment.
-- 💻 **Ex-MERN Stack Developer**: Leveraging my full-stack development background to understand and mitigate security risks.
-- 🐛 **Bug Bounty Hunter**: Hunting for vulnerabilities and contributing to the security of various platforms.
+## 🛠️ Toolbox
+- **Frontend**: HTML, CSS, JavaScript, React
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB (because SQL is too mainstream)
+- **Tools**: Git, VS Code, and a lot of caffeine
 
-## My Interests
+## 🌱 Currently
+- Learning how to make TypeScript stop yelling at me
+- Trying to center a div without Googling (it’s harder than it sounds)
 
-- Penetration Testing
-- Ethical Hacking
-- Web Application Security
-- Network Security
-- Exploit Development
 
-## Projects
-
-Here are some of my notable projects:
-
-### [8-Bit CPU from Scratch](https://github.com/yourusername/8-bit-cpu)
-Building an 8-bit CPU using breadboards with a friend, showcasing my interest in low-level hardware and computer architecture.
-
-### [Log4j Vulnerability Analysis](https://github.com/yourusername/log4j-analysis)
-A comprehensive write-up and analysis of the infamous Log4j vulnerability, including monitoring techniques and mitigation strategies.
-
-## Skills
-
-- **Cybersecurity**: Penetration Testing, Vulnerability Assessment, Malware Analysis, Ethical Hacking
-- **Programming Languages**: JavaScript, Python, C
-- **Web Development**: MERN Stack (MongoDB, Express.js, React, Node.js)
-- **Tools & Technologies**: Kali Linux, Metasploit, Burp Suite, Wireshark, Nmap, Docker, Git
-
-## Let's Connect!
-
-- [LinkedIn](https://www.linkedin.com/in/alvin-liju-0aab55307?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-- [Twitter](https://twitter.com/paperwe90)
+## 📫 Let’s Chat
+- [LinkedIn](https://www.linkedin.com/in/alvin-liju-0aab55307)
+- [Twitter](https://twitter.com/e3heo)
 - [Blog](https://alvin-cybersec-blog.vercel.app/)
 
-Feel free to reach out if you want to collaborate on a project, discuss cybersecurity trends, or just chat about tech. Let's make the digital world a safer place together! 🚀
+Hit me up if you want to talk code, bugs, or why `NaN === NaN` is false. 😄
 
 ---
 
-⭐️ [Follow me](https://github.com/yourusername) for more interesting projects and updates!
-
+⭐️ **Follow me** for more questionable life choices and code!
 
