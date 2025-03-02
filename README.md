@@ -1,5 +1,6 @@
 # 💫 About Me:
-i am currently falling in love with web3 and fullstack application<br> 
+##### hola, my name is alvin..<br>
+i am currently falling in love with web3 and fullstack devlopment<br> 
 i like to build stuffs<br>
 in my free time i cook 🧑‍🍳
 
