@@ -1,31 +1,39 @@
-# Hi. I Write Code.
+# /dev/adhd
 
-**Principal Engineer | 10+ years of shipping prod**  
-*"If it's stupid but it works, it's not stupid."*
+**Full-Stack Chaos Engineer | Generalist Going Vertical**  
+*"Currently mainlining caffeine and K&R C while the world burns."*
 
 ---
 
-### Current Project
-[**`$PROJECT_NAME`**](https://github.com/cs-from-scratch)  
-Currently learning cs from first principles, starting with c programming and using k&r and my refrence guide.
+### 🔥 Current Hyperfocus
+**Learning Security Through First Principles**  
+- Grinding: `K&R C` → Building mental models of memory before touching exploits  
+- Next Target: `xv6` kernel modifications for exploit dev practice  
+- Security Bookshelf: `Hacking: Art of Exploitation`, `Black Hat Python`
+
 ---
 
-### Stack
+### 🧩 Tech DNA
 **Languages**  
-`C` `Python` `Rust` `SQL` `Bash`
+`C (K&R style)` `Go` `Solidity` `Node.js` `React`  
+*"Yes I did Web3. No I don't want to talk about it."*
 
-**Infrastructure**  
-AWS, Docker, Terraform, Prometheus, RabbitMQ
+**Security Toolbox**  
+`GDB` `Radare2` `Wireshark` `Metasploit` `Burp Suite`  
+*(Competent enough to accidentally rm -rf / )*
 
 **Philosophy**  
-- Prefer boring tech
-- `SELECT * FROM production;` > meetings
-- `rm -rf node_modules/` solves 80% of JS problems
+- "Learn the machine before the abstraction"  
+- `while(!succeed) { try(); caffeine++; }`  
+- 90% of security is reading manuals with Adderall focus
+
 
 ---
 
-### Contact
-[![Email](https://img.shields.io/badge/Email-Dev%20stuff-black?style=flat&logo=gmail)](mailto:alvinliju342@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-black?style=flat&logo=linkedin)](https://linkedin.com/in/you)
+### 🧠 Neurospicy Workflow
+**Toolchain**  
+- Editor: `Vim` (configured during 3AM hyperfocus session)  
+- Focus: `Brown noise` + `5 RedBulls/day`  
+- Task Mgmt: `terminal todos` that get deleted every reboot  
 
-*"There are only two hard things in Computer Science: cache invalidation and hiring."*
+hit me up on X x.com/@e3he0
