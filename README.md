@@ -36,4 +36,4 @@
 - Focus: `Brown noise` + `5 RedBulls/day`  
 - Task Mgmt: `terminal todos` that get deleted every reboot  
 
-hit me up on X x.com/@e3he0
+hit me up on X https://x.com/@e3he0
